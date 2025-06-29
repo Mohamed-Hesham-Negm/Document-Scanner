@@ -6,7 +6,7 @@ This project performs document detection and perspective transformation from a *
 
 ## 📸 Demo
 
-![Document Scanner Demo](stacked_output.jpg)
+![Document Scanner Demo](stacked_output.JPG)
 
 ---
 
